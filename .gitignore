@@ -1,0 +1,21 @@
+# Unity-generated files to ignore 
+[Ll]ibrary/ 
+[Tt]emp/ 
+[Oo]bj/ 
+[Bb]uild/ 
+[Ll]ogs/ 
+UserSettings/ 
+*.exe 
+*.apk 
+*.unitypackage 
+*.meta 
+*.sln 
+*.csproj 
+*.pidb 
+*.user 
+*.suo 
+*.booproj 
+*.unityproj 
+.vscode/ 
+.idea/ 
+MemoryCaptures/ 
